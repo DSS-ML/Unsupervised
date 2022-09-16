@@ -1,0 +1,27 @@
+IDs
+#: Pokédex number of each Pokemon (not unique)
+Name: Name of each Pokemon (unique)
+TYPES
+Type 1: Each Pokemon has a type, this determines weakness/resistance to attacks
+Type 2: Some Pokemon are dual type
+STATS
+Total: Sum of all stats
+HP: Hit Points
+Attack: Base modifier for normal attacks
+Defense: Base damage resistance against normal attacks
+Sp. Atk: Special Attack, the base modifier for special attacks
+Sp. Def: Special Defense, the base damage resistance against special attacks
+Speed: Determines which Pokemon attacks first each round
+SIZE
+Height (m): Height of Pokemon in meters
+Weight (Kg): Weight of Pokemon in kilograms
+BMI: Body Mass Index of Pokemon (kilogram per squared meter)
+GENERATION
+Generation: First Generation where Pokemon was seen
+Some Pokemons like Alolan and Mega Evolutions appeared in another Generation than their regular counterparts
+Sources
+All information taken from:
+pokemondb.net pokédex
+pokemondb.net size pokédex
+bulbapedia's legendary pokemon list
+
