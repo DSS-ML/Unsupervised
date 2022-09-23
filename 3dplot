@@ -1,0 +1,16 @@
+from mpl_toolkits import mplot3d
+import numpy as np
+import matplotlib.pyplot as plt
+ 
+fig = plt.figure()
+ 
+# syntax for 3-D projection
+ax = plt.axes(projection ='3d')
+ 
+# defining all 3 axes
+
+ 
+# plotting
+ax.scatter(mall_data['Spending Score (1-100)'], mall_data['Annual Income (k$)'], mall_data['Age'], c =
+
+plt.show()
